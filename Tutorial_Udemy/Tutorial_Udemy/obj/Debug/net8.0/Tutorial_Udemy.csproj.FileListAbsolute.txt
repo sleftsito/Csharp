@@ -1,0 +1,14 @@
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\bin\Debug\net8.0\Tutorial_Udemy.exe
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\bin\Debug\net8.0\Tutorial_Udemy.deps.json
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\bin\Debug\net8.0\Tutorial_Udemy.runtimeconfig.json
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\bin\Debug\net8.0\Tutorial_Udemy.dll
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\bin\Debug\net8.0\Tutorial_Udemy.pdb
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.AssemblyInfoInputs.cache
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.AssemblyInfo.cs
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.csproj.CoreCompileInputs.cache
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.dll
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\refint\Tutorial_Udemy.dll
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.pdb
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\Tutorial_Udemy.genruntimeconfig.cache
+D:\Programacion\Csharp\Tutorial_Udemy\Tutorial_Udemy\obj\Debug\net8.0\ref\Tutorial_Udemy.dll
