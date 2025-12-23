@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\clasegenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\clasegenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\nodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\nodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|c:\\programacion\\csharp\\tutorial_udemy\\tutorial_udemy\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C58002-87A8-49DA-A7E3-594C013B2D80}|Tutorial_Udemy\\Tutorial_Udemy.csproj|solutionrelative:tutorial_udemy\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Categoria.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\Categoria.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Categoria.cs",
+              "RelativeToolTip": "Tutorial_Udemy\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:15:51.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Juego.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\Juego.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Juego.cs",
+              "RelativeToolTip": "Tutorial_Udemy\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:15:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "claseGenerica.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\claseGenerica.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\claseGenerica.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\claseGenerica.cs",
+              "RelativeToolTip": "Tutorial_Udemy\\claseGenerica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:46:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo2.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Nodo2.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\Nodo2.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Nodo2.cs",
+              "RelativeToolTip": "Tutorial_Udemy\\Nodo2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:45:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "books.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\books.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\books.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\books.cs",
+              "RelativeToolTip": "Tutorial_Udemy\\books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:50:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial_Udemy\\Program.cs",
+              "ToolTip": "C:\\Programacion\\Csharp\\Tutorial_Udemy\\Tutorial_Udemy\\Program.cs*",
+              "RelativeToolTip": "Tutorial_Udemy\\Program.cs*",
+              "ViewState": "AgIAANwCAAAAAAAAAAAAAJYDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:42:59.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
