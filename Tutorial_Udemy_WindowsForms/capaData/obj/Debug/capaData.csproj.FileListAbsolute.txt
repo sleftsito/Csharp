@@ -1,0 +1,15 @@
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\capaData.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\capaData.pdb
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\linq2db.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\linq2db.xml
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\obj\Debug\capaData.csproj.AssemblyReference.cache
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\obj\Debug\capaData.csproj.CoreCompileInputs.cache
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\obj\Debug\capaData.csproj.Up2Date
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\obj\Debug\capaData.dll
+C:\Programacion\Csharp\Tutorial_Udemy_WindowsForms\capaData\obj\Debug\capaData.pdb
